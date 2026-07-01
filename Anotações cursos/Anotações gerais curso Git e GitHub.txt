@@ -1,0 +1,5 @@
+Texto teste para o Git e Github
+
+git status
+git add . = Adiciona arquivos para commit
+git commit -m "mensagem de identificação do commit"
